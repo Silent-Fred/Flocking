@@ -1,5 +1,15 @@
 # An attempt at implementing C. Reynold's Boid flocking model
 
+Wozu ist das hier alles?
+------------------------
+
+Bei wiederholten Code Retreats oder ähnlichen Veranstaltungen wird manchen Teilnehmern das klassische
+Thema _"Conway's Game of Life"_ langweilig.
+Eine eigenen kleine Vektorbibliothek ist z.B. sehr klar spezifiziert und damit gut testbar.
+Das schwer voraussagbare Verhalten der "Boids" erfordert dagegen zusätzliche Überlegungen, wie hierfür
+sinnvolle Tests geschrieben werden können. Daher könnte das Thema für einen Übungstag durchaus eine
+interessante Aufgabe darstellen.
+
 Buildfile
 ---------
 
